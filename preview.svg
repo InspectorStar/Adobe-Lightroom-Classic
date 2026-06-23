@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" role="img" aria-label="Adobe Lightroom Classic preview">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d47a1"/>
+      <stop offset="100%" stop-color="#1976d2"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="420" rx="18" fill="url(#bg)"/>
+  <circle cx="720" cy="90" r="30" fill="none" stroke="#e3f2fd" stroke-opacity="0.15" stroke-width="2"/><circle cx="720" cy="90" r="50" fill="none" stroke="#e3f2fd" stroke-opacity="0.15" stroke-width="2"/><circle cx="720" cy="90" r="70" fill="none" stroke="#e3f2fd" stroke-opacity="0.15" stroke-width="2"/><circle cx="720" cy="90" r="90" fill="none" stroke="#e3f2fd" stroke-opacity="0.15" stroke-width="2"/><circle cx="720" cy="90" r="110" fill="none" stroke="#e3f2fd" stroke-opacity="0.15" stroke-width="2"/>
+  <rect x="36" y="36" width="420" height="6" rx="3" fill="#e3f2fd" opacity="0.35"/>
+  <text x="48" y="120" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">Adobe Lightroom Classic</text>
+  <text x="48" y="168" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="20" opacity="0.85">Photo catalog &amp; develop</text>
+  <rect x="48" y="200" width="260" height="4" rx="2" fill="#e3f2fd" opacity="0.3"/>
+  <rect x="48" y="220" width="200" height="4" rx="2" fill="#e3f2fd" opacity="0.2"/>
+  <rect x="48" y="240" width="320" height="4" rx="2" fill="#e3f2fd" opacity="0.15"/>
+</svg>
